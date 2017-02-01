@@ -29,7 +29,7 @@ public class SPPAMartinezCT1P3 {
         System.out.println("Ingrese las coordenadas del segundo punto");
         System.out.println("x2=");
         x2= teclado.nextDouble();
-        System.out.println("y2");
+        System.out.println("y2=");
         y2= teclado.nextDouble();
         
         dis= Math.sqrt(Math.pow(x1-x2,2) + Math.pow(y1-y2, 2));
